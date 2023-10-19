@@ -1,18 +1,24 @@
 # GPT-RP-Prompt
 Ultimate instructions and prompts for your characters. RPG, OC and more 🪶
 
-## ☕ Character Directory
+## ☕ Get started
 
 #### **Overview**
 
-This repository is a character directory for writers, game masters, and anyone else who needs to create memorable and engaging characters. It includes a variety of prompts and examples to help you create your own original characters, RPG characters, and assistants.
+This repository is a character directory for writers, game masters, and anyone else who needs to create memorable and engaging characters and bring it to AI chatroom. It includes a variety of prompts and examples to help you create your own original characters, RPG characters, and assistants.
+
+#### **Character Directory**
+
+- `OCpromots`: for Original Character
+- `RPGprompts`: for RPG
+- `Assistprompts`: for building Assistant
 
 #### **How to Contribute**
 
 To contribute to the character directory, please follow these steps:
 
 1. Review the character folders in the repository.
-2. DM me on Discord with your character request or contribution. Include the following information:
+2. DM me on Discord (check contact below) with your character request or contribution. Include the following information:
     * Character owner name
     * Character's name
     * Number of tokens used (optional)
@@ -43,3 +49,5 @@ Here are some additional tips for contributing to the character directory:
 * Feel free to be creative and come up with unique and interesting characters. I am always looking for new and innovative ways to generate characters.
 
 I look forward to your contributions!
+
+## Have a good day ~~
